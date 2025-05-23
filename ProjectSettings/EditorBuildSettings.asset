@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Demo.unity
     guid: 37b3a974e17eb2346af606d1391e5d7c
   - enabled: 1
-    path: Assets/Scenes/ChatAI.unity
-    guid: 94ffa3c45f2f49f42848773df9a54ab5
+    path: Assets/Scenes/OnlineChatAI.unity
+    guid: 40b56a9bff9ac334493f494df745cf07
+  - enabled: 1
+    path: Assets/Scenes/OfflineChatAI.unity
+    guid: 7f4279a57d2106e4085ddbb536f476c3
   m_configObjects: {}
