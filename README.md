@@ -1,4 +1,4 @@
-# A Unity Project: Virtual Fitness Trainer
+# A Unity Project: Virtual Physical Trainer
 
 This Unity project features an AI Fitness Assistant ("Alex") capable of handling **voice input** from the user, **natural language generation**, and **text-to-speech output**. It supports both **online (Gemini 1.5 Flash)** and **offline (LLaMA 3.2 1b via Ollama)** operation.
 
