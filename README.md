@@ -74,7 +74,7 @@ Here are the steps to generate Speech.exe:
 1. Create a .NET Console App:
 
 - Open Visual Studio (or use dotnet new console in CLI).
-- Add the code from Program.cs into the Main() method of the console app.
+- Add the code from `Program.cs` into the Main() method of the console app.
 
 2. Add Reference to System.Speech:
 
