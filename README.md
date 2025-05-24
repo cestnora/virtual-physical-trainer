@@ -69,7 +69,7 @@ Pre-rigged animations from [Mixamo](https://www.mixamo.com/#/) for avatar action
 
 `Speech.exe` is a .NET Console Application that uses the `System.Speech.Synthesis` namespace to perform text-to-speech (TTS) using Windows' built-in voices.
 
-Here are the steps to generate Speech.exe:
+Here are the steps to generate `Speech.exe`:
 
 1. Create a .NET Console App:
 
